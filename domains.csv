@@ -1,0 +1,19 @@
+pfam_id,pfam_name,family,role
+PF00847,AP2,AP2/ERF (DREB),transcription factor
+PF03760,LEA_1,LEA,dehydration protection
+PF03168,LEA_2,LEA,dehydration protection
+PF03242,LEA_3a,LEA,dehydration protection
+PF02987,LEA_4,LEA,dehydration protection
+PF00477,LEA_5,LEA,dehydration protection
+PF00257,Dehydrin,Dehydrin,dehydration protection
+PF00230,MIP,Aquaporin,water transport
+PF00069,Pkinase,Protein kinase,signalling
+PF07714,PK_Tyr_Ser-Thr,Protein kinase,signalling
+PF00011,HSP20,HSP20,protein folding
+PF00012,HSP70,HSP70,protein folding
+PF00183,HSP90,HSP90,protein folding
+PF03106,WRKY,WRKY,transcription factor
+PF00249,Myb_DNA-binding,MYB,transcription factor
+PF02365,NAM,NAC,transcription factor
+PF00036,EF-hand_1,EF-hand,calcium signalling
+PF00168,C2,C2,calcium signalling
